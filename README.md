@@ -42,7 +42,7 @@ This decision is currently made entirely by **human visual inspection**, which:
 
 > The full pipeline I designed and implemented — from raw field photos to live detection output.
 
-![System Architecture](gourd_harvesting_architecture.png)
+![System Architecture](gourd harvesting architecture.png)
 
 The pipeline has 6 stages:
 
