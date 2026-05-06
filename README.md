@@ -229,25 +229,25 @@ The model improved consistently from mAP@50 = **0.186** at epoch 1 to **0.553** 
 <table>
   <tr>
     <td align="center">
-      <img src="assets/output1.jpg" width="280"/><br/>
+      <img src="assets/output1.png" width="280"/><br/>
       <sub><b>Output 1</b> — Bitter Gourd detection</sub>
     </td>
     <td align="center">
-      <img src="assets/output2.jpg" width="280"/><br/>
+      <img src="assets/output2.png" width="280"/><br/>
       <sub><b>Output 2</b> — Bottle Gourd detection</sub>
     </td>
     <td align="center">
-      <img src="assets/output3.jpg" width="280"/><br/>
+      <img src="assets/output3.png" width="280"/><br/>
       <sub><b>Output 3</b> — Snake Gourd detection</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="assets/output4.jpg" width="280"/><br/>
+      <img src="assets/output4.png" width="280"/><br/>
       <sub><b>Output 4</b> — Ivy Gourd detection</sub>
     </td>
     <td align="center">
-      <img src="assets/output5.jpg" width="280"/><br/>
+      <img src="assets/output5.png" width="280"/><br/>
       <sub><b>Output 5</b> — Multi-class video frame</sub>
     </td>
     <td align="center"></td>
