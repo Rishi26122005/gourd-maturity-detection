@@ -254,8 +254,6 @@ The model improved consistently from mAP@50 = **0.186** at epoch 1 to **0.553** 
   </tr>
 </table>
 
-> 📁 Place your output images in an `assets/` folder and rename them `output1.jpg` through `output5.jpg`, or update the paths above to match your actual filenames.
-
 ---
 
 ## 😓 Challenges I Faced
