@@ -224,7 +224,6 @@ The model improved consistently from mAP@50 = **0.186** at epoch 1 to **0.553** 
 ## 🖼️ Output Detection Samples
 
 > Model predictions with bounding boxes and confidence scores on test images.
-> *(Replace the placeholders below with your actual output images)*
 
 <table>
   <tr>
