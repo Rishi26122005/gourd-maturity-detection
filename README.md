@@ -101,7 +101,7 @@ I went to **real gourd farms** and photographed the crops using my **mobile phon
 
 After uploading all images to Roboflow, I manually drew bounding boxes around every single gourd and assigned it the correct class. This was the most time-consuming part — annotating hundreds of overlapping, half-hidden gourds in dense canopy photos, one by one.
 
-![Roboflow Dataset Overview](roboflow_dataset.png)
+![Roboflow Dataset Overview](assets/roboflow_dataset.png)
 
 ### 📊 Dataset Statistics
 
